@@ -4,7 +4,7 @@ import Image from "next/image"
 export default function Home() {
 	return (
 		<div>
-			<Image src="/aotbanner.jpg" alt="Academy of Technology" width="660" height="330"></Image>
+			<Image src="/aotbanner.jpg" alt="Academy of Technology" width="660" height="330" style={{ display: "block", margin: "auto" }}></Image>
 			<h2>About</h2>
 			<p>The Academy of Technology (AOT), located amidst the beautiful surroundings of Adisaptagram, has been a beacon of educational excellence since its founding in 2003. It is one of the most acclaimed self-financed engineering colleges in West Bengal. More than just an educational institution, AOT is a symbol of ingenuity and dedication, weaving a lovely mix of technology and ethics.</p>
 			<p>It is founded by the visionary Jagannath Banerjee, an alumnus of IIT Kharagpur and IIM Calcutta, with the objective of instituting academic excellence and a spirit of enquiry among young minds. He was also the head of the Ananda Educational Development and Charitable Organisation (AEDCO), a trust known for its deep sense of social commitment and dedicated to the promotion of education by inculcating appropriate ethics and attitude. Several renowned educationists, prominent alumni from IITs & IIMs and experts from the industry have been at the helm of the college from its very inception. During its early years, Prof. G S Sanyal&mdash;distinguished academician, outstanding teacher and ex-Director of IIT Kharagpur&mdash;was the Chairman of the Advisory Committee of the college.</p>

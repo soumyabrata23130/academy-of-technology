@@ -1,0 +1,11 @@
+table {
+	min-width: 60%;
+}
+
+table li {
+	margin-left: 0.5rem;
+}
+
+.clear {
+	padding: 1.5rem;
+}
