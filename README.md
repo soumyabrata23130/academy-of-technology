@@ -1,6 +1,6 @@
 # Academy of Technology
 
-Draft of a new website of the Academy of Technology (AOT).
+Old draft of a new design of the official website of the Academy of Technology (AOT). It is no longer being updated as the AOT website is redesigned to a better design. However, it can be used as a basis for other websites.
 
 ## Getting Started
 
